@@ -1,2 +1,1 @@
-# dp_cpp
- some DP problems in CPP
+some LC/HR style problems in CPP
